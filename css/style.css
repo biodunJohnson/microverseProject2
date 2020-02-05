@@ -6,3 +6,7 @@
   .flex {
     display: flex;
 }
+#header{
+    position: fixed;
+    top: 0;
+  }
